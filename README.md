@@ -18,7 +18,7 @@ Python EasyShare Server is a lightweight, web-based file server designed for eas
 
 1. Clone the repository or download `file_server.py` directly.
    ```bash
-   git clone https://github.com/your-username/python-easyshare-server.git
+   git clone https://github.com/infoxmax/python-easyshare-server.git
    cd python-easyshare-server
    ```
 
